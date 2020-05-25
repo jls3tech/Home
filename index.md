@@ -1,4 +1,4 @@
-# Welcome To the Home of James Saunders
+# James Saunders' Homepage
 
 ## About me
 
@@ -14,4 +14,3 @@ words
 
 ## In the News
 words
-
