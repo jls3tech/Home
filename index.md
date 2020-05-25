@@ -9,7 +9,8 @@ Words
 words
 
 ## Social Media
-[Image](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)[LinkedIn](https://www.linkedin.com/in/jamessaundersiii/)
+[LinkedIn](https://www.linkedin.com/in/jamessaundersiii/)
+[Goodreads](https://www.goodreads.com/user/show/40085700-james)
 
 ## In the News
 words
